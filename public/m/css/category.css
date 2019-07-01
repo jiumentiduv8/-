@@ -1,0 +1,25 @@
+.cate-content {
+    position: absolute;
+    left: 0;
+    top: 44px;
+    bottom: 50px;
+    /* height: 100%; */
+    width: 100%;
+    background-color: rgb(236, 222, 222);
+}
+.cate-left {
+    position: relative;
+    width: 80px;
+    height: 100%;
+    float: left;
+    touch-action: none;
+    background-color: #ccc;
+
+}
+
+.cate-right {
+    position: relative;
+    margin-left: 90px;
+    height: 100%;
+    background-color: #165165;
+}
